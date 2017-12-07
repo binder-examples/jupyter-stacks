@@ -1,4 +1,4 @@
-# jupyter-docker-stacks
+# Using a Docker image from the Jupyter `docker-stacks` repository
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/jupyter-stacks/master)
 
